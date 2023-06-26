@@ -1,4 +1,4 @@
-## We are going to set up a pipeline for a Django application.
+## We are going to set up a pipeline for a NodeJS application.
 
 ## Configuring Jenkins
 
