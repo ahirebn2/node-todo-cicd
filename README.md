@@ -41,5 +41,6 @@ $ docker-compose down $ docker-compose up -d
 ```
 
 3. Now, build the project and check if the build is successfully completed. Finally navigate to the URL.
+   
 ---------------------------------------------------------------------------Thank You------------------------------------------------------
 
